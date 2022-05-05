@@ -23,3 +23,14 @@ Data-Intensive Engineering Two Semesters Project
 
 Contains our final CSV files, all_characters.csv is for all the character information from all over the movies that we use and all_movies_emotions.csv is all the processed data (all emotion scores of all the dialogues)
 
+## Codes
+
+### StepByStep Conversion
+- Shows how we convert the data into different formats
+
+
+### Clustering FinalDB
+- Shows how we cluster the characters based on emotions
+
+### Final Notebook
+- Shows all the codebase we have in sections
