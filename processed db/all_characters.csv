@@ -1,0 +1,514 @@
+character,gender,movie_name
+A.J.,male,armageddon
+ABERFORTH,male,HP
+AGENT COULSON,male,marvel
+AIBILEEN,female,the-help-2018
+ALAN TURING,male,the-imitation-game
+ALDOR,male,TLOTR-2
+ALEXIS,female,la-la-land
+ALFRED,male,the-dark-knight-2008
+ALFRED,male,the-dark-knight-rises-2012
+ALL,male,beauty-and-the-beast
+AMY,female,little-women
+AMY BRANDT,female,la-la-land
+ANCHISE,male,call-me-by-your-name
+ANDY,female,devil-wears-prada
+ANDY,male,the-shawshank-redemption-1994
+ANNA,female,notting-hill-1999
+ANNELLA,female,call-me-by-your-name
+ANNIE,female,little-women
+ANTHONY,male,the-godfather-1972
+APOLLONIA,female,the-godfather-1972
+ARAGORN,male,TLOTR-1
+ARAGORN,male,TLOTR-2
+ARAGORN,male,TLOTR-3
+ARTHUR,male,HP
+ARTHUR WEASLEY,male,HP
+ARWEN,female,TLOTR-1
+ARWEN,female,TLOTR-2
+ARWEN,female,TLOTR-3
+ASA MELVIN,male,little-women
+AUDIENCE MEMBER #1,female,la-la-land
+AUDIENCE MEMBER #2,female,la-la-land
+AUNT MARCH,female,little-women
+AUNT MARGE,female,HP
+BANE,male,the-dark-knight-rises-2012
+BANNER,male,marvel
+BARON HARKONNEN,male,dune
+BARTON,male,marvel
+BARTY,male,HP
+BARZINI,male,the-godfather-1972
+BATMAN,male,the-dark-knight-2008
+BATMAN,male,the-dark-knight-rises-2012
+BEAR,male,armageddon
+BELLA,female,notting-hill-1999
+BELLATRIX,female,HP
+BELLE,female,beauty-and-the-beast
+BERNIE,male,notting-hill-1999
+BETH,female,little-women
+BILBO,male,TLOTR-3
+BINGLEY,male,pride-and-prejudice
+BLACK RIDER,male,TLOTR-1
+BLAKE,male,the-dark-knight-rises-2012
+BONASERA,male,the-godfather-1972
+BOROMIR,male,TLOTR-1
+BOROMIR,male,TLOTR-2
+BOSS,female,la-la-land
+BOY,male,the-imitation-game
+BRETT,male,pulp-fiction-1994
+BRODY,male,jaws-1975
+BROOKS,male,the-shawshank-redemption-1994
+BRUNO TATTAGLIA,male,the-godfather-1972
+BUCKY,male,marvel
+BUTCH,male,pulp-fiction-1994
+BUTTERBUR,male,TLOTR-1
+BUTTONMAN,male,the-godfather-1972
+CADENZA,male,beauty-and-the-beast
+CALO,male,the-godfather-1972
+CAPTAIN AMERICA,male,marvel
+CARLO,male,la-la-land
+CARLO,male,the-godfather-1972
+CAROLINE,female,pride-and-prejudice
+CASSIUS,male,gladiator
+CASTING DIRECTOR,male,la-la-land
+CATWOMAN,female,the-dark-knight-rises-2012
+CEDRIC,male,HP
+CELEBORN,male,TLOTR-1
+CELIA,female,the-help-2018
+CHANI,female,dune
+CHARLES RICHARDS,male,the-imitation-game
+CHARLOTTE,female,pride-and-prejudice
+CHARLOTTE,female,the-help-2018
+CHECHEN,male,the-dark-knight-2008
+CHIARA,female,call-me-by-your-name
+CHICK,male,armageddon
+CHIP,male,beauty-and-the-beast
+CHRISTIAN,male,devil-wears-prada
+CHRISTINE,female,marvel
+CHRISTOPHER,male,the-imitation-game
+CICCI,male,the-godfather-1972
+CLARK,male,armageddon
+CLEMENZA,male,the-godfather-1972
+CLOTHILDE,female,beauty-and-the-beast
+COLONEL PHILLIPS,male,marvel
+COMMANDER DENNISTON,male,the-imitation-game
+COMMODUS,male,gladiator
+CONGRESSMAN,male,the-dark-knight-rises-2012
+CONNIE,female,the-godfather-1972
+CORNELIUS FUDGE,male,HP
+COULSON,male,marvel
+COUNCILMAN,male,marvel
+CUISINIÈR,male,beauty-and-the-beast
+CUSTOMER,male,la-la-land
+CUSTOMER #1,male,la-la-land
+D.A.,male,the-shawshank-redemption-1994
+DADDY TWOFOOT,male,TLOTR-1
+DAGGETT,male,the-dark-knight-rises-2012
+DARCY,female,marvel
+DARCY,female,pride-and-prejudice
+DASHWOOD,male,little-women
+DAVID,male,la-la-land
+DENETHOR,male,TLOTR-2
+DENETHOR,male,TLOTR-3
+DENT,male,the-dark-knight-2008
+DETECTIVE NOCK,male,the-imitation-game
+DIVA,female,beauty-and-the-beast
+DOBBY,male,HP
+DOCTOR,male,little-women
+DOUG,male,devil-wears-prada
+DR. ARNIM ZOLA,male,marvel
+DR. ERSKINE,male,marvel
+DRACO,male,HP
+DRUMMER,male,la-la-land
+DUDLEY,male,HP
+DUMBLEDORE,male,HP
+DUNCAN,male,dune
+DÉAGOL,male,TLOTR-3
+ELENA,female,call-me-by-your-name
+ELIO,male,call-me-by-your-name
+ELIZABETH,female,the-help-2018
+ELLEN,female,jaws-1975
+ELPHIAS DOGE,male,HP
+ELROND,male,TLOTR-1
+ELROND,male,TLOTR-2
+ELROND,male,TLOTR-3
+EMILY,female,devil-wears-prada
+EMPLOYEE,male,la-la-land
+ENGEL,male,the-dark-knight-2008
+ENZO,male,the-godfather-1972
+ESMARELDA,female,pulp-fiction-1994
+FABIENNE,female,pulp-fiction-1994
+FABRIZIO,male,the-godfather-1972
+FANDRAL,male,marvel
+FARAMIR,male,TLOTR-2
+FARAMIR,male,TLOTR-3
+FARMER MAGGOT,male,TLOTR-1
+FATHER,male,little-women
+FIANCEE,male,la-la-land
+FIGWIT,male,TLOTR-3
+FLIP,male,armageddon
+FLOYD,male,the-shawshank-redemption-1994
+FOLEY,female,the-dark-knight-rises-2012
+FOX,male,the-dark-knight-2008
+FOX,male,the-dark-knight-rises-2012
+FRED,male,HP
+FRED,male,little-women
+FREDA,female,TLOTR-2
+FREDO,male,the-godfather-1972
+FRIEDRICH,male,little-women
+FRIGGA,female,marvel
+FRODO,male,TLOTR-1
+FRODO,male,TLOTR-2
+FRODO,male,TLOTR-3
+FURY,male,marvel
+GAFFER,male,TLOTR-1
+GAIUS,male,gladiator
+GALADRIEL,female,TLOTR-1
+GALADRIEL,female,TLOTR-2
+GALADRIEL,female,TLOTR-3
+GAMLING,male,TLOTR-2
+GAMLING,male,TLOTR-3
+GANDALF,male,TLOTR-1
+GANDALF,male,TLOTR-2
+GANDALF,male,TLOTR-3
+GASTON,male,beauty-and-the-beast
+GEORGE,male,HP
+GILDEROY LOCKHART,male,HP
+GIMLI,male,TLOTR-1
+GIMLI,male,TLOTR-2
+GIMLI,male,TLOTR-3
+GINNY,female,HP
+GOLDEN,male,armageddon
+GOLLUM,male,TLOTR-1
+GOLLUM,male,TLOTR-2
+GOLLUM,male,TLOTR-3
+GORBAG,male,TLOTR-3
+GORDON,male,the-dark-knight-2008
+GORDON,male,the-dark-knight-rises-2012
+GOTHMOG,male,TLOTR-3
+GRACCHUS,male,gladiator
+GRACE,female,armageddon
+GRANDMASTER,male,marvel
+GREG,male,la-la-land
+GRIMBOLD,male,TLOTR-3
+GRIPHOOK,male,HP
+GRISHNÁKH,male,TLOTR-2
+GRUMPY,male,the-dark-knight-2008
+GURNEY,male,dune
+HADLEY,male,the-shawshank-redemption-1994
+HAGEN,male,the-godfather-1972
+HAGRID,male,HP
+HALDIR,male,TLOTR-1
+HALDIR,male,TLOTR-2
+HALETH,male,TLOTR-2
+HANNAH,female,little-women
+HARRY,male,HP
+HARRY,male,armageddon
+HARRY,male,la-la-land
+HAWAT,male,dune
+HEADMASTER,male,the-imitation-game
+HEIMDALL,male,marvel
+HELA,female,marvel
+HELEN,female,the-imitation-game
+HENDRICKS,male,jaws-1975
+HENRY,male,the-help-2018
+HERMIONE,female,HP
+HEYWOOD,male,the-shawshank-redemption-1994
+HILLY,female,the-help-2018
+HOBBIT BOUNDER,male,TLOTR-1
+HOGUN,male,marvel
+HONEY,female,notting-hill-1999
+HONEY BUNNY,female,pulp-fiction-1994
+HOOCH,female,HP
+HOOPER,male,jaws-1975
+HOWARD STARK,male,marvel
+HUGH ALEXANDER,male,the-imitation-game
+HULK,male,marvel
+HÁMA,male,TLOTR-2
+IDAHO,male,dune
+IGOR,male,HP
+INTOXICATED HOBBIT,male,TLOTR-1
+IORLAS,male,TLOTR-3
+IRON MAN,male,marvel
+ISILDUR,male,TLOTR-1
+JANE,female,marvel
+JANE,female,pride-and-prejudice
+JARVIS,male,marvel
+JEAN,male,beauty-and-the-beast
+JEFF,male,notting-hill-1999
+JEREMY,male,notting-hill-1999
+JESSICA,female,dune
+JIMBO,male,armageddon
+JIMMIE,male,pulp-fiction-1994
+JO,female,little-women
+JOAN CLARKE,male,the-imitation-game
+JODY,female,pulp-fiction-1994
+JOHANN SCHMIDT,male,marvel
+JOHN,male,little-women
+JOHN CAIRNCROSS,male,the-imitation-game
+JOHNNY,male,the-godfather-1972
+JOHNNY,male,the-help-2018
+JOLENE,female,the-help-2018
+JOSH,male,la-la-land
+JUBA,male,gladiator
+JULES,male,pulp-fiction-1994
+KAREN,female,notting-hill-1999
+KAY,female,the-godfather-1972
+KEITH,male,la-la-land
+KEITH FURMAN,male,the-imitation-game
+KING OF THE DEAD,male,TLOTR-3
+KITTY,female,pride-and-prejudice
+KORG,male,marvel
+KREACHER,male,HP
+KYNES,male,dune
+LADY CATHERINE,female,pride-and-prejudice
+LANCE,male,pulp-fiction-1994
+LAU,male,the-dark-knight-2008
+LAUFEY,male,marvel
+LAURA,male,la-la-land
+LAURIE,male,little-women
+LAWRENCE,male,notting-hill-1999
+LEFOU,male,beauty-and-the-beast
+LEGOLAS,male,TLOTR-1
+LEGOLAS,male,TLOTR-2
+LEGOLAS,male,TLOTR-3
+LETO,male,dune
+LEV,male,armageddon
+LIEUTENANT,male,TLOTR-3
+LILY,female,devil-wears-prada
+LIZZIE,female,pride-and-prejudice
+LOBELIA,female,TLOTR-1
+LOKI,male,marvel
+LUCA,male,the-godfather-1972
+LUCILLA,female,gladiator
+LUCIUS,male,gladiator
+LUCIUS MALFOY,male,HP
+LUMIÈRE,male,beauty-and-the-beast
+LUNA,female,HP
+LUPIN,male,HP
+LURTZ,male,TLOTR-1
+LYDIA,female,pride-and-prejudice
+MAD-EYE,male,HP
+MADRIL,male,TLOTR-2
+MADRIL,male,TLOTR-3
+MAE MOBLEY,female,the-help-2018
+MAFALDA,female,call-me-by-your-name
+MAJOR ALLEN,male,marvel
+MALFOY,male,HP
+MAMA,female,the-godfather-1972
+MANAGER,male,la-la-land
+MARCELLUS,male,gladiator
+MARCO,male,call-me-by-your-name
+MARCUS,male,gladiator
+MARIA,female,call-me-by-your-name
+MARIA HILL,female,marvel
+MARMEE,female,little-women
+MARONI,male,the-dark-knight-2008
+MARSELLUS,male,pulp-fiction-1994
+MARTIN,male,notting-hill-1999
+MARZIA,female,call-me-by-your-name
+MAURICE,male,beauty-and-the-beast
+MAX,male,armageddon
+MAX,male,notting-hill-1999
+MAXIMUS,male,gladiator
+MAYNARD,male,pulp-fiction-1994
+MAYOR,male,the-dark-knight-2008
+MAÚHUR,male,TLOTR-2
+MCCLUSKEY,male,the-godfather-1972
+MCGONAGALL,female,HP
+MEADOWS,male,jaws-1975
+MEG,female,little-women
+MERRY,male,TLOTR-1
+MERRY,male,TLOTR-2
+MERRY,male,TLOTR-3
+MI-6 AGENT,female,the-imitation-game
+MIA,female,la-la-land
+MIA,female,pulp-fiction-1994
+MIAS DAD,male,la-la-land
+MIAS MOM,female,la-la-land
+MICHAEL,male,the-godfather-1972
+MINNY,female,the-help-2018
+MIRANDA,female,devil-wears-prada
+MIRANDA,female,the-dark-knight-rises-2012
+MISS STEIN,female,the-help-2018
+MISSUS WALTERS,female,the-help-2018
+MOANING MYRTLE,female,HP
+MOB,male,beauty-and-the-beast
+MOE,male,the-godfather-1972
+MORWEN,female,TLOTR-2
+MR BENNET,male,pride-and-prejudice
+MR COLLINS,male,pride-and-prejudice
+MR. BLACKLY,male,the-help-2018
+MR. BROOKE,male,little-women
+MR. LAURENCE,male,little-women
+MRS BENNET,female,pride-and-prejudice
+MRS GARDINER,female,pride-and-prejudice
+MRS. KIRKE,female,little-women
+MRS. POTTS,female,beauty-and-the-beast
+MRS. WEASLEY,female,HP
+NARRATOR,male,beauty-and-the-beast
+NARRATOR,male,marvel
+NASTY HEADMASTER,male,beauty-and-the-beast
+NATASHA,female,marvel
+NATE,male,devil-wears-prada
+NAZORINE,male,the-godfather-1972
+NEVILLE,male,HP
+NIGEL,male,devil-wears-prada
+NORTON,male,the-shawshank-redemption-1994
+NURSE,female,the-godfather-1972
+OBADIAH,male,marvel
+ODIN,male,marvel
+OLD HARRY,male,TLOTR-1
+OLIVER,male,call-me-by-your-name
+OLLIVANDER,male,HP
+PAUL,male,dune
+PAULIE,male,the-godfather-1972
+PEGGY CARTER,female,marvel
+PEPPER,female,marvel
+PERE ROBERT,male,beauty-and-the-beast
+PERLMAN,male,call-me-by-your-name
+PETER HILTON,male,the-imitation-game
+PETUNIA,female,HP
+PHOTOGRAPHER,male,la-la-land
+PHOTOGRAPHER,male,the-godfather-1972
+PIPPIN,male,TLOTR-1
+PIPPIN,male,TLOTR-2
+PIPPIN,male,TLOTR-3
+PLUMETTE,female,beauty-and-the-beast
+PRIEST,male,the-godfather-1972
+PRISONER,male,the-dark-knight-rises-2012
+PROFESSOR LUPIN,male,HP
+PROFESSOR MCGONAGALL,female,HP
+PROFESSOR TRELAWNEY,female,HP
+PROXIMO,male,gladiator
+PUMPKIN,male,pulp-fiction-1994
+QUINCY,male,armageddon
+QUINT,male,jaws-1975
+QUINTUS,male,gladiator
+QUIRRELL,male,HP
+RACHEL,female,the-dark-knight-2008
+RAMIREZ,male,the-dark-knight-2008
+RANGER,male,TLOTR-2
+RAZA,male,marvel
+RED,male,the-shawshank-redemption-1994
+RED SKULL,male,marvel
+REESE,male,the-dark-knight-2008
+REVEREND MOTHER MOHIAM,male,dune
+RHODEY,male,marvel
+RITA,female,HP
+ROHAN MARSHALL,male,TLOTR-3
+ROHAN SOLDIER,male,TLOTR-3
+ROHAN SOLDIER 1,male,TLOTR-2
+ROHAN SOLDIER 2,male,TLOTR-2
+RON,male,HP
+ROSIE,female,TLOTR-1
+SALLIE,female,little-women
+SAM,male,TLOTR-1
+SAM,male,TLOTR-2
+SAM,male,TLOTR-3
+SANDRA,female,the-godfather-1972
+SARUMAN,male,TLOTR-1
+SARUMAN,male,TLOTR-2
+SAURON,male,TLOTR-1
+SCHOOL GIRL #1,female,little-women
+SCRIMGEOUR,male,HP
+SEBASTIAN,male,la-la-land
+SECURITY GUARD,male,marvel
+SELINA,female,the-dark-knight-rises-2012
+SELVIG,male,marvel
+SENATOR BRANDT,male,marvel
+SERGEANT STAEHL,male,the-imitation-game
+SGT. STAEHL,male,the-imitation-game
+SHARP,male,armageddon
+SIF,female,marvel
+SINGER,male,la-la-land
+SIR,male,HP
+SIRIUS BLACK,male,HP
+SKEETER,female,the-help-2018
+SKIP,male,armageddon
+SKURGE,male,marvel
+SLUGHORN,male,HP
+SMÉAGOL,male,TLOTR-2
+SMÉAGOL,male,TLOTR-3
+SNAGA,male,TLOTR-2
+SNAPE,male,HP
+SOLDIER,male,TLOTR-2
+SOLDIER,male,little-women
+SOLLOZZO,male,the-godfather-1972
+SONNY,male,the-godfather-1972
+SPIKE,male,notting-hill-1999
+STAN SHUNPIKE,male,HP
+STEPHENS,male,the-dark-knight-2008
+STEVE,male,marvel
+STEWART MENZIES,male,the-imitation-game
+STILGAR,male,dune
+STRANGE,male,marvel
+STRIDER,male,TLOTR-1
+STRYVER,male,the-dark-knight-rises-2012
+STUART,male,the-help-2018
+SUPERINTENDANT SMITH,male,the-imitation-game
+SURTUR,male,marvel
+SUSAN ROBBINS,female,little-women
+SUSAN ROBBINS,male,little-women
+TATTAGLIA,male,the-godfather-1972
+TAVERN KEEPER,male,beauty-and-the-beast
+TED SANDYMAN,male,TLOTR-1
+TEMPLE,male,armageddon
+TESSIO,male,the-godfather-1972
+THE BEAST,male,beauty-and-the-beast
+THE WOLF,male,pulp-fiction-1994
+THEO,male,armageddon
+THIEF,male,notting-hill-1999
+THOR,male,marvel
+THÉODEN,male,TLOTR-2
+THÉODEN,male,TLOTR-3
+THÉODEN/SARUMAN,male,TLOTR-2
+TITUS,male,gladiator
+TOM,male,the-godfather-1972
+TOM RIDDLE,male,HP
+TOMMASINO,male,the-godfather-1972
+TOMMY,male,the-shawshank-redemption-1994
+TONY,male,marvel
+TOPAZ,female,marvel
+TRACY,female,la-la-land
+UGLÚK,male,TLOTR-2
+UMBRIDGE,female,HP
+UNCLE VERNON,male,HP
+VALKYRIE,female,marvel
+VAUGHN,male,jaws-1975
+VERNON,male,HP
+VIBIUS,male,gladiator
+VILLAGE LASSES,female,beauty-and-the-beast
+VILLAGE LASSES’ MOTHER,female,beauty-and-the-beast
+VINCENT,male,pulp-fiction-1994
+VITELLI,male,the-godfather-1972
+VITO,male,the-godfather-1972
+VOLDEMORT,male,HP
+VOLSTAGG,male,marvel
+WASHER GIRL,female,beauty-and-the-beast
+WATTS,male,armageddon
+WAYNE,male,the-dark-knight-2008
+WAYNE,male,the-dark-knight-rises-2012
+WHITE WIZARD,male,TLOTR-2
+WICKHAM,male,pride-and-prejudice
+WILD MAN,male,TLOTR-2
+WILLIAM,male,notting-hill-1999
+WITCH KING,male,TLOTR-1
+WITCH KING,male,TLOTR-3
+WOLTZ,male,the-godfather-1972
+WOMAN,female,la-la-land
+WOMAN,female,the-godfather-1972
+WOMAN #2,female,la-la-land
+WORMTONGUE,male,TLOTR-2
+XENOPHILIUS LOVEGOOD,male,HP
+YINSEN,male,marvel
+YOUNG ALAN,male,the-imitation-game
+YOUNG MAN,male,pulp-fiction-1994
+YOUNG WOMAN,female,pulp-fiction-1994
+YULE MAY,female,the-help-2018
+ZALUCHI,male,the-godfather-1972
+ÉOMER,male,TLOTR-2
+ÉOMER,male,TLOTR-3
+ÉOTHAIN,male,TLOTR-2
+ÉOWYN,female,TLOTR-2
+ÉOWYN,female,TLOTR-3
