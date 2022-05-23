@@ -1,1 +1,1 @@
-
+This file consists of manually annotated data by two different people on 179 dialogues spoken by Harry in the Harry Potter series chosen randomly. The results was then compared with the result obtained from Stanza model to measure the accuracy of the model and amongst ourselves.
