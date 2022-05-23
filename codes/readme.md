@@ -11,3 +11,7 @@ The function returns two dictionaries, first one is character_dialogues, name of
 the scenarios.
 
 ![Screenshot 2](https://github.com/melihkurtaran/DIE_Gender_Equality_in_Movies/blob/main/codes/pictures/p2.png?raw=true)
+
+In datapreprocess step, all characters' gender must be assigned for the analysis so it could be automated by using the Gender API as shown in below code.
+
+![Screenshot 3](https://github.com/melihkurtaran/DIE_Gender_Equality_in_Movies/blob/main/codes/pictures/p3.png?raw=true)
