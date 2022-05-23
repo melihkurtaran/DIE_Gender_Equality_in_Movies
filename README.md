@@ -17,9 +17,9 @@ This project requires Python 3 and the following Python libraries installed:
 * Torch
 * Stanza
 
-This project was done using Google Colab. The code also runs in Jupyter Notebook. For Juputer Notebook, you will also need to have software installed to run and execute a Jupyter Notebook
+This project was done using Google Colab. The code also runs in Jupyter Notebook. 
 
-If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
+For Juputer Notebook, you will also need to have software installed to run and execute a Jupyter Notebook. If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
 
 ### Code Usage
@@ -53,7 +53,7 @@ The dataset includes 4 folders :
     * Scenarios: It includes only the scenarios from the movie script.
     * Dialogues: It includes the dialogues from the movie sript mapped with respective character.
     
-* CSV: It has includes dialogues of the characters for each movie in seperate file.
+* CSV: It includes dialogues of the characters for each movie in seperate file.
 
 ### Processed Dataset
 
